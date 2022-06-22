@@ -1,0 +1,22 @@
+{
+  "name": "test-deployment-backend",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/umair-dev-ops/test-deployment-backend.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/umair-dev-ops/test-deployment-backend/issues"
+  },
+  "homepage": "https://github.com/umair-dev-ops/test-deployment-backend#readme",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
+}
